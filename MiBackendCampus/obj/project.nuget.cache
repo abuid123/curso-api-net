@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HEzPQ77byaLS08tvG7ncq+YMnwspEHqbzUgLE/nP+bof5euMi+AmHPD6jc2ZPSFcEdMJgeRVkkCCN263w9rFaQ==",
+  "dgSpecHash": "B5eTbCuXEyJUzmlP8dOEsUwoArPpZpxIROFG1Yfav5ysrQus0ugZ/S3DCpmSgvfwkXlux9sX0xuWRHdaO+3O7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agusf\\source\\repos\\MiBackendCampus\\MiBackendCampus\\MiBackendCampus.csproj",
+  "projectFilePath": "C:\\Users\\agusf\\OneDrive\\Documents\\GitHub\\curso-api-net\\MiBackendCampus\\MiBackendCampus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agusf\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\agusf\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

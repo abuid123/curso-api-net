@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agusf\\source\\repos\\MiBackendCampus\\MiBackendCampus\\MiBackendCampus.csproj": {}
+    "C:\\Users\\agusf\\OneDrive\\Documents\\GitHub\\curso-api-net\\MiBackendCampus\\MiBackendCampus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agusf\\source\\repos\\MiBackendCampus\\MiBackendCampus\\MiBackendCampus.csproj": {
+    "C:\\Users\\agusf\\OneDrive\\Documents\\GitHub\\curso-api-net\\MiBackendCampus\\MiBackendCampus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agusf\\source\\repos\\MiBackendCampus\\MiBackendCampus\\MiBackendCampus.csproj",
+        "projectUniqueName": "C:\\Users\\agusf\\OneDrive\\Documents\\GitHub\\curso-api-net\\MiBackendCampus\\MiBackendCampus.csproj",
         "projectName": "MiBackendCampus",
-        "projectPath": "C:\\Users\\agusf\\source\\repos\\MiBackendCampus\\MiBackendCampus\\MiBackendCampus.csproj",
+        "projectPath": "C:\\Users\\agusf\\OneDrive\\Documents\\GitHub\\curso-api-net\\MiBackendCampus\\MiBackendCampus.csproj",
         "packagesPath": "C:\\Users\\agusf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agusf\\source\\repos\\MiBackendCampus\\MiBackendCampus\\obj\\",
+        "outputPath": "C:\\Users\\agusf\\OneDrive\\Documents\\GitHub\\curso-api-net\\MiBackendCampus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
